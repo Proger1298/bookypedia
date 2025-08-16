@@ -41,7 +41,7 @@ cmake --build .
 BOOKYPEDIA_DB_URL=postgres://postgres:Mys3Cr3t@172.17.0.2:5432/bookypedia ./bookypedia
 ```
 
-_Системные требоания_:
+_Системные требования_:
 - Linux (Ubuntu 22.04)
 
 _Зависимости_:
